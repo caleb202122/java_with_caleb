@@ -1,0 +1,12 @@
+package com.callycalex;
+
+public class Lesson1 {
+    public static void main(String[] args) {
+        int number1 = 1;
+        while(number1<=100){
+            System.out.println("the number is:" +number1);
+            ++number1;
+        }
+    }
+
+}
