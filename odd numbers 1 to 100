@@ -1,0 +1,10 @@
+package com.callycalex;
+public class LessonCode{
+    public static void main(String[] args) {
+        int Number1;
+        for (Number1 = 1; Number1 < 100; ++Number1) {
+            System.out.println("the number is:" + Number1);
+            ++Number1;
+        }
+    }
+}
